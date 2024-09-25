@@ -55,3 +55,7 @@ Sau khi lập trình xong, bạn có thể upload chương trình vào mạch b�
 ### Lưu chương trình
 
 Bạn có thể lưu chương trình bằng cách chọn File -> Save to your computer.
+
+## Giải thich các khối lệnh
+
+Chi tiết về các khối lệnh trong ThingEduBlock có thể xem tại [đây](documents/Block%20Explanation.md).
